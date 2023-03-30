@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../../projects/iot/web_socket/web_socket"
+	},
+	{
+		"name": "iot_websocket",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
